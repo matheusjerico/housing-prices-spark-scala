@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.evaluation.RegressionEvaluator","timestamp":1591564253969,"sparkVersion":"2.4.5","uid":"regEval_cef8d9b62fc7","paramMap":{"labelCol":"median_house_value","predictionCol":"prediction","metricName":"rmse"},"defaultParamMap":{"labelCol":"label","predictionCol":"prediction","metricName":"rmse"}}
