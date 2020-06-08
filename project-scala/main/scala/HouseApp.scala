@@ -11,7 +11,7 @@ import org.apache.spark.ml.Pipeline
 import org.apache.spark.SparkConf
 import org.apache.spark.sql.SparkSession
 
-object Houseaspp{
+object HouseApp{
     def main(args: Array[String]) {
 
         var file = "dataset/housing.csv"
